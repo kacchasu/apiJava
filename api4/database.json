@@ -1,0 +1,53 @@
+{
+    "libraries": [
+        {
+            "id": 1,
+            "name": "Central library №1",
+            "address": "some street in the center of the city"
+        },
+        {
+            "id": 2,
+            "name": "District Library №2",
+            "address": "soem street on the outskirts of the city"
+        }
+    ],
+
+    "authors": [
+        {
+            "id": 1,
+            "name": "Turgenev"
+        },
+        {
+            "id": 2,
+            "name": "Pushkin"
+        },
+        {
+            "id": 3,
+            "name": "Dostoevsky"
+        }
+    ],
+
+    "books": [
+        {
+            "id": 1,
+            "author_id": 1,
+            "name": "Fathers and sons",
+            "date": 1862,
+            "genre": "romance"
+        },
+        {
+            "id": 2,
+            "author_id": 2,
+            "name": "Captain's daughter",
+            "date": 1836,
+            "genre": "historical novel"
+        },
+        {
+            "id": 3,
+            "author_id": 3,
+            "name": "Demons",
+            "date": 1871,
+            "genre": "novel"
+        }
+    ]    
+}
